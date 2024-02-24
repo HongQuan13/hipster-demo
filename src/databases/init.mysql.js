@@ -1,10 +1,10 @@
 const mysql = require("mysql2/promise");
 
 const connectionDetails = {
-  host: "mysql-database.czccwe4oeg4q.ap-southeast-1.rds.amazonaws.com",
+  host: "demo-mysql-database.czccwe4oeg4q.ap-southeast-1.rds.amazonaws.com",
   user: "admin",
   password: "12345678",
-  database: "benjaminDB",
+  database: "demoDB",
 };
 
 let connection;
