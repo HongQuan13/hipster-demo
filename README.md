@@ -1,1 +1,1 @@
-# hipster-demo
+# demo-server
